@@ -2,6 +2,7 @@
 
 [![Kubestronaut](https://img.shields.io/badge/CNCF-Kubestronaut-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/training/kubestronaut/)
 [![Golden Kubestronaut](https://img.shields.io/badge/CNCF-Golden%20Kubestronaut-FFD700?style=for-the-badge&logo=kubernetes&logoColor=black)](https://www.cncf.io/training/kubestronaut/)
+[![Documentation](https://img.shields.io/badge/docs-ReadTheDocs-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://golden-kubestronaut-learning.readthedocs.io/)
 
 A comprehensive learning resource for achieving **Kubestronaut** and **Golden Kubestronaut** status through CNCF certifications.
 
