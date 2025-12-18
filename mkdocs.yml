@@ -74,6 +74,23 @@ nav:
     - Application Environment, Configuration and Security: ckad/04-application-environment-config-security.md
     - Services and Networking: ckad/05-services-networking.md
     - Sample Practice Questions: ckad/sample-questions.md
+  - CKA:
+    - Overview: cka/README.md
+    - Cluster Architecture, Installation & Configuration: cka/01-cluster-architecture.md
+    - Workloads & Scheduling: cka/02-workloads-scheduling.md
+    - Services & Networking: cka/03-services-networking.md
+    - Storage: cka/04-storage.md
+    - Troubleshooting: cka/05-troubleshooting.md
+    - Sample Practice Questions: cka/sample-questions.md
+  - CKS:
+    - Overview: cks/README.md
+    - Cluster Setup: cks/01-cluster-setup.md
+    - Cluster Hardening: cks/02-cluster-hardening.md
+    - System Hardening: cks/03-system-hardening.md
+    - Minimize Microservice Vulnerabilities: cks/04-minimize-microservice-vulnerabilities.md
+    - Supply Chain Security: cks/05-supply-chain-security.md
+    - Monitoring, Logging and Runtime Security: cks/06-monitoring-logging-runtime-security.md
+    - Sample Practice Questions: cks/sample-questions.md
 
 extra:
   social:
