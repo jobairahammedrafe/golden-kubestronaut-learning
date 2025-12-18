@@ -1,0 +1,65 @@
+site_name: Golden Kubestronaut Learning
+site_description: A comprehensive learning resource for achieving Kubestronaut and Golden Kubestronaut status through CNCF certifications
+site_author: pmady
+site_url: https://pmady.github.io/golden-kubestronaut-learning
+
+repo_name: pmady/golden-kubestronaut-learning
+repo_url: https://github.com/pmady/golden-kubestronaut-learning
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: README.md
+  - KCNA:
+    - Overview: kcna/README.md
+    - Kubernetes Fundamentals: kcna/01-kubernetes-fundamentals.md
+    - Container Orchestration: kcna/02-container-orchestration.md
+    - Cloud Native Architecture: kcna/03-cloud-native-architecture.md
+    - Cloud Native Observability: kcna/04-cloud-native-observability.md
+    - Cloud Native Application Delivery: kcna/05-cloud-native-application-delivery.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pmady
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/pavanmadduri/
