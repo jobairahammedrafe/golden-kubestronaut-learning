@@ -47,16 +47,8 @@ markdown_extensions:
   - toc:
       permalink: true
 
-docs_dir: .
-
-exclude_docs: |
-  .git/
-  .github/
-  docs/
-  site/
-
 nav:
-  - Home: README.md
+  - Home: index.md
   - KCNA:
     - Overview: kcna/README.md
     - Kubernetes Fundamentals: kcna/01-kubernetes-fundamentals.md
