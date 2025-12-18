@@ -57,6 +57,7 @@ The **Kubernetes and Cloud Native Associate (KCNA)** exam demonstrates a user's 
 - [03 - Cloud Native Architecture](./03-cloud-native-architecture.md)
 - [04 - Cloud Native Observability](./04-cloud-native-observability.md)
 - [05 - Cloud Native Application Delivery](./05-cloud-native-application-delivery.md)
+- [Sample Practice Questions](./sample-questions.md)
 
 ## Exam Tips
 
