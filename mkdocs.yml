@@ -66,6 +66,14 @@ nav:
     - Platform Security: kcsa/05-platform-security.md
     - Compliance and Security Frameworks: kcsa/06-compliance-security-frameworks.md
     - Sample Practice Questions: kcsa/sample-questions.md
+  - CKAD:
+    - Overview: ckad/README.md
+    - Application Design and Build: ckad/01-application-design-build.md
+    - Application Deployment: ckad/02-application-deployment.md
+    - Application Observability and Maintenance: ckad/03-application-observability-maintenance.md
+    - Application Environment, Configuration and Security: ckad/04-application-environment-config-security.md
+    - Services and Networking: ckad/05-services-networking.md
+    - Sample Practice Questions: ckad/sample-questions.md
 
 extra:
   social:
