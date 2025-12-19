@@ -123,12 +123,11 @@ In addition to the 5 Kubestronaut certifications, Golden Kubestronauts must pass
 
 ## Contributing
 
-Contributions are welcome! Feel free to:
+Contributions are welcome! Please see our [Contributing Guide](./CONTRIBUTING.md) for details.
 
-- Add study resources and tips
-- Share exam experiences
-- Improve documentation
-- Add practice exercises
+Check out [Good First Issues](./GOOD_FIRST_ISSUES.md) for beginner-friendly ways to contribute.
+
+All contributors must follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
 
