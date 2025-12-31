@@ -50,6 +50,8 @@ nav:
   - Home: index.md
   - Study Schedules: study-schedules.md
   - Certification Comparison: certification-comparison.md
+  - Certification Renewal Tracker: certification-renewal.md
+  - Command Line Aliases: aliases-generator.md
   - Exam Day Tips: exam-tips.md
   - Video Resources: video-resources.md
   - Cheat Sheets:
