@@ -16,6 +16,26 @@ The **Kubestronaut** program recognizes community leaders who have consistently 
 
 **Golden Kubestronauts** are individuals who have passed all CNCF's Cloud Native certifications plus [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/).
 
+## PDF Study Guides
+
+All study guides are available as downloadable PDFs for offline study. Look for the "Download PDF" button at the top of each certification page.
+
+### Generating PDFs Locally
+
+To generate PDFs locally:
+
+1. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Run the PDF generation script:
+   ```bash
+   python scripts/generate_pdfs.py
+   ```
+
+3. The generated PDFs will be saved in the `site/pdf/` directory.
+
 > **UPDATE**: [CNPE](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineer-cnpe/) will be an additional requirement after March 1st to become a Golden Kubestronaut.
 
 ## Kubestronaut Certifications (5 Required)
